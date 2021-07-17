@@ -8,4 +8,4 @@ Durante o desafio irei atualizar meu progresso, adicionando um novo commit por a
 
 ## Sites lançandos até agora:
 
-- Site #01 - [Calculadora](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+- Site #01 - [Calculadora](https://github.com/RomuloHe4rt/90sites90days/tree/main/90sites-challenge/01-calculadora)
