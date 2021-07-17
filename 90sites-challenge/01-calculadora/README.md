@@ -6,7 +6,7 @@
 
 No dia 16 de julho, decidi me desafiar a fazer um site por dia durante 90 dias.
 
-Ao me desafiar desenvolver um site por dia, estarei sempre me pressionando a estudar. Começo a escrever estas linhas às 20h51, e depois de um longo dia, com a cabeça focada em terminar este documento ates das 23h59. O tempo é o melhor professor.
+Ao me desafiar desenvolver um site por dia, estarei sempre me pressionando a estudar. Começo a escrever estas linhas às 20h51, e depois de um longo dia, com a cabeça focada em terminar este documento antes das 23h59. O tempo é o melhor professor.
 
 Vamos ao que importa, o primeiro site!
 
