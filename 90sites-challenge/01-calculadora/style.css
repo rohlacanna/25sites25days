@@ -9,11 +9,33 @@
   font-size: 25px;
   margin: 2px;
   cursor: pointer;
+  background: #607d8b;
+  border: none;
+  color: #fff;
 }
 
 .textview {
-  width: 203px;
+  width: 208px;
   margin: 5px;
   font-size: 25px;
   padding: 5px;
+  border: none;
+  color: #607d8b;
+}
+
+.button:active {
+  background: #fff;
+  color: #111;
+}
+
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.bg {
+  background: linear-gradient(to right, #e91e63, #3f51b5);
+  min-height: 100vh;
 }
