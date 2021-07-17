@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background: #f25a70;
+  font-family: Open Sans;
+  font-size: 50px;
+  color: #222;
+}
+
+label {
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  display: block;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAzElEQVRYR+2X0Q6AIAhF5f8/2jYXZkwEjNSVvVUjDpcrGgT7FUkI2D9xRfQETwNIiWO85wfINfQUEyxBG2ArsLwC0jioGt5zFcwF4OYDPi/mBYKm4t0U8ATgRm3ThFoAqkhNgWkA0jJLvaOVSs7j3qMnSgXWBMiWPXe94QqMBMBc1VZIvaTu5u5pQewq0EqNZvIEMCmxAawK0DNkay9QmfFNAJUXfgGgUkLaE7j/h8fnASkxHTz0DGIBMCnBeeM7AArpUd3mz2x3C7wADglA8BcWMZhZAAAAAElFTkSuQmCC")
+      14 0,
+    pointer;
+}
+
+.card {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: all 800ms;
+  transition: all 800ms;
+  z-index: 20;
+}
+
+.card div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #eae6da;
+  text-align: center;
+  line-height: 200px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 2px;
+}
+
+.card .back {
+  background: #3a4042;
+  color: #fff;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+}
+
+label:hover .card {
+  -webkit-transform: rotateX(20deg);
+  transform: rotateX(20deg);
+  box-shadow: 0 20px 20px #3a4042;
+}
+
+input {
+  display: none;
+}
+
+:checked + .card {
+  transform: rotateX(180deg);
+  -webkit-transform: rotateX(180deg);
+}
+
+label:hover :checked + .card {
+  transform: rotateX(160deg);
+  -webkit-transform: rotateX(160deg);
+  box-shadow: 0 20px 20px #eae6da;
+}
