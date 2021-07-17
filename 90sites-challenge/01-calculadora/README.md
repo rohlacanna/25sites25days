@@ -2,7 +2,7 @@
 
 # Site #01 - Calculadora
 
-## Resume importante sobre este desafio
+## Resumo importante sobre este desafio
 
 No dia 16 de julho, decidi me desafiar a fazer um site por dia durante 90 dias.
 
