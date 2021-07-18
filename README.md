@@ -8,5 +8,5 @@ Durante o desafio irei atualizar meu progresso, adicionando um novo commit por a
 
 ## Sites lançandos até agora:
 
-- Site #02 - [Clique aqui](https://github.com/RomuloHe4rt/90sites90days/tree/main/90sites-challenge/02-cliqueaqui)
-- Site #01 - [Calculadora](https://github.com/RomuloHe4rt/90sites90days/tree/main/90sites-challenge/01-calculadora)
+- Site #02 - [Clique aqui](https://romulohe4rt.github.io/90sites90days/90sites-challenge/02-cliqueaqui/)
+- Site #01 - [Calculadora](https://romulohe4rt.github.io/90sites90days/90sites-challenge/01-calculadora/)
