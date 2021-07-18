@@ -5,13 +5,14 @@
 }
 
 body {
+  background: linear-gradient(to right, #aeeae3, #f3b5a5);
   display: grid;
   place-items: center;
   height: 100vh;
 }
 
 #items-wrapper {
-  width: 100vw;
+  width: 50vw;
 }
 
 #items {
@@ -20,15 +21,18 @@ body {
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
 }
 
 .item {
   flex: none;
 
-  width: 100%;
+  width: 34%;
   height: 400px;
 
   scroll-snap-align: start;
+
+  pointer-events: none;
 }
 
 img {
