@@ -4,11 +4,11 @@
 
 ## Como este site foi construído?
 
-Tal qual o [site 05](https://github.com/RomuloHe4rt/90sites90days/tree/main/90sites-challenge/05-semaforo) deste desafio, busquei uma estrutura que utilizasse a função setInterval do Javascript para funcionar, achei a função muito incrível e quis fazer algo que usasse ela novamente para memorizar tudo que aprendi no site anterior. Sem contar que, pratiquei bastante também o meu CSS. Utilizei apenas HTML, CSS e Javascript.
+Tal qual o [site 05](https://github.com/RomuloHe4rt/90sites90days/tree/main/90sites-challenge/05-semaforo) deste desafio, busquei uma estrutura que utilizasse a função [`setInterval()`](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) do Javascript para funcionar, achei a função muito incrível e quis fazer algo que usasse ela novamente para memorizar tudo que aprendi no site anterior. Sem contar que, pratiquei bastante também o meu CSS. Utilizei apenas HTML, CSS e Javascript.
 
 ## O que aprendi na construção deste site?
 
-Como de costume, após ter a ideia de fazer um relógio analógico, fui ao requisitado Youtube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção pelo designer.
+Como de costume, após ter a ideia de fazer um relógio analógico, fui ao requisitado YouTube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção pelo designer.
 
 ### Você pode assisti-lo clicando na imagem abaixo:
 
