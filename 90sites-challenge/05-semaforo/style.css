@@ -3,3 +3,80 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html,
+body {
+  height: 100%;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+header {
+  background-color: rgba(36, 36, 36, 0.678);
+  width: 100%;
+  color: #fff;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header a {
+  color: whitesmoke;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+header a:hover {
+  color: #dea5ff;
+  transition: 200ms;
+}
+
+main {
+  background: #fff;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5vh;
+}
+
+.button {
+  width: 80px;
+  height: 30px;
+  margin: 2px;
+  font-family: "Roboto", sans-serif;
+  background: #000;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+#red:hover {
+  background: #343a40;
+  color: #fe0110;
+}
+
+#yellow:hover {
+  background: #343a40;
+  color: #fdd019;
+}
+
+#green:hover {
+  background: #343a40;
+  color: #78fd00;
+}
+
+#automatic:hover {
+  background: #343a40;
+}
