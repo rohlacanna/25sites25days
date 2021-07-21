@@ -8,7 +8,7 @@ Tal qual o [site 05](https://github.com/RomuloHe4rt/90sites90days/tree/main/90si
 
 ## O que aprendi na construção deste site?
 
-Como de costume, após ter a ideia de fazer um relógio analógico, fui ao requisitado YouTube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção pelo designer.
+Como de costume, após ter a ideia de fazer um relógio analógico, fui ao requisitado YouTube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção pelo design.
 
 ### Você pode assisti-lo clicando na imagem abaixo:
 
