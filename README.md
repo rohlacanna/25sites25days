@@ -8,6 +8,7 @@ Durante o desafio irei atualizar meu progresso, adicionando um novo commit por a
 
 ## Sites lançandos até agora:
 
+- Site #07 - [Efeito Máquina de Escrever](https://romulohe4rt.github.io/90sites90days/90sites-challenge/07-maquinadeescrever)
 - Site #06 - [Relógio Analógico](https://romulohe4rt.github.io/90sites90days/90sites-challenge/06-relogioanalogico)
 - Site #05 - [Semáforo](https://romulohe4rt.github.io/90sites90days/90sites-challenge/05-semaforo)
 - Site #04 - [Catavento](https://romulohe4rt.github.io/90sites90days/90sites-challenge/04-catavento)
