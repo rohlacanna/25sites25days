@@ -75,6 +75,8 @@ form h2 {
   width: 0;
   height: 2px;
   background-color: #38d39f;
+
+  transition: 0.3s;
 }
 
 .input-div::after {
@@ -115,6 +117,8 @@ form h2 {
 
 .i i {
   color: #d9d9d9;
+
+  transition: 0.3s;
 }
 
 .input-div > div {
