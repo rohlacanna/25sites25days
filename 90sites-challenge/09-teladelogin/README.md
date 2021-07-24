@@ -2,7 +2,11 @@
 
 # Site #09 - Tela de Login
 
-## Eu (acho) que estou começando a entender a responsividade
+## O que aprendi na construção deste site?
+
+Aprendi que [`@media`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media) pode ser usada para aplicar estilos com base no resultado de uma ou mais consultas de mídia, que testam o tipo, as características específicas e o ambiente de um dispositivo.
+
+### Eu (acho) que estou começando a entender a responsividade
 
 Estava querendo muito aprender sobre responsividade e foi baseado nisso que decidi buscar mais a fundo como fazer isso acontecer para este site #09. Para deixar responsivo a minha tela de login, utilizei o seguinte código no CSS:
 
@@ -46,6 +50,8 @@ Estava querendo muito aprender sobre responsividade e foi baseado nisso que deci
   }
 }
 ```
+
+Funcionou 100%! Ainda não sei se é a melhor forma de fazer isso, então fiquem à vontade para fazer uma PR nesse projeto, melhorando meu código.
 
 ---
 
