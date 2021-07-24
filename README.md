@@ -8,7 +8,7 @@ Durante o desafio irei atualizar meu progresso, adicionando um novo commit por a
 
 ## Sites lançandos até agora:
 
-- Site #09 - [Tente clicar](https://romulohe4rt.github.io/90sites90days/90sites-challenge/09-teladelogin)
+- Site #09 - [Tela de Login](https://romulohe4rt.github.io/90sites90days/90sites-challenge/09-teladelogin)
 - Site #08 - [Tente clicar](https://romulohe4rt.github.io/90sites90days/90sites-challenge/08-tenteclicar)
 - Site #07 - [Efeito Máquina de Escrever](https://romulohe4rt.github.io/90sites90days/90sites-challenge/07-maquinadeescrever)
 - Site #06 - [Relógio Analógico](https://romulohe4rt.github.io/90sites90days/90sites-challenge/06-relogioanalogico)
