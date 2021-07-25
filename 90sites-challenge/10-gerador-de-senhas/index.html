@@ -8,7 +8,45 @@
 
     <title>Site #10 - Gerador de senhas | Rômulo Silva</title>
   </head>
+
   <body>
+    <div class="pw-container">
+      <div class="pw-header">
+        <div class="pw">
+          <span id="pw">123456yhsd*</span>
+          <button id="copy">Copiar</button>
+        </div>
+      </div>
+      <div class="pw-body">
+        <div class="form-control">
+          <label for="len">Password Length</label>
+          <input type="number" id="len" value="15" min="2" max="30" />
+        </div>
+
+        <div class="form-control">
+          <label for="upper">Uppercase</label>
+          <input type="checkbox" id="upper" />
+        </div>
+
+        <div class="form-control">
+          <label for="lower">Lowercase</label>
+          <input type="checkbox" id="lower" />
+        </div>
+
+        <div class="form-control">
+          <label for="number">Number</label>
+          <input type="checkbox" id="number" />
+        </div>
+
+        <div class="form-control">
+          <label for="symbol">Symbol</label>
+          <input type="checkbox" id="symbol" />
+        </div>
+
+        <button class="generate" id="generate">Gerar senha</button>
+      </div>
+    </div>
+
     <script src="script.js"></script>
   </body>
 </html>
