@@ -8,7 +8,7 @@ Para se prevenir de hackers e invasão das suas contas, além de remediar os pro
 
 Utilizei um vídeo tutorial da [`Danki Code`](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) para fins de estudo de Javascript.
 
-Você pode conferir também este projeto para fins de estudo, segue o tutorial:
+Você pode conferir também este projeto para fins de estudo, segue o tutorial: <br>
 [![#](https://i.ibb.co/fxVNZrb/Screenshot-1.png)](https://www.youtube.com/watch?v=gKbLn-RQtl0)
 
 Com ele, você consegue conferir, em tempo real, como ficará a apresentação do seu site em diversas resoluções diferentes.
