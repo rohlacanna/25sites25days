@@ -3,8 +3,8 @@ const transactionsUl = document.querySelector('#transactions');
 const dummyTransactions = [
   { id: 1, name: 'Bolo de pote da Eleni', amount: -12 },
   { id: 2, name: 'Salário', amount: 300 },
-  { id: 3, name: 'Torta de frango', amount: -10 },
-  { id: 4, name: 'Piano', amount: 150 },
+  { id: 3, name: 'Sonho', amount: -5 },
+  { id: 4, name: 'Pão de mel', amount: 7 },
 ];
 
 const addTransactionIntoDOM = (transaction) => {
@@ -32,7 +32,11 @@ const updateBalanceValues = () => {
     .filter((value) => value > 0)
     .reduce((accumulator, value) => accumulator + value, 0)
     .toFixed(2);
-  console.log(income);
+  const expense = transactionsAmounts
+    .filter((value) => value < 0)
+    .reduce((accumulator, value) => accumulator + value, 0)
+    .toFixed(2);
+  console.log(expense);
 };
 
 const init = () => {
