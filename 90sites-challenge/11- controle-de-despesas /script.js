@@ -50,6 +50,7 @@ const updateBalanceValues = () => {
 };
 
 const init = () => {
+  transactionsUl.innerHTML = '';
   dummyTransactions.forEach(addTransactionIntoDOM);
   updateBalanceValues();
 };
@@ -71,9 +72,13 @@ form.addEventListener('submit', (event) => {
 
   const transaction = {
     id: generateID(),
-    name: 'Bolo de pote da Eleni',
-    amount: -12,
+    name: transactionName,
+    amount: Number(transactionAmout),
   };
 
-  console.log(transaction);
+  dummyTransactions.push(transaction);
+  init();
+
+  inputTransactionName.value = '';
+  inputTransactionAmount.value = '';
 });
