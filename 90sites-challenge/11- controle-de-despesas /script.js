@@ -35,10 +35,11 @@ const updateBalanceValues = () => {
     .filter((value) => value > 0)
     .reduce((accumulator, value) => accumulator + value, 0)
     .toFixed(2);
-  const expense = transactionsAmounts
-    .filter((value) => value < 0)
-    .reduce((accumulator, value) => accumulator + value, 0)
-    .toFixed(2);
+  const expense = Math.abs(
+    transactionsAmounts
+      .filter((value) => value < 0)
+      .reduce((accumulator, value) => accumulator + value, 0)
+  ).toFixed(2);
 
   balanceDisplay.textContent = `R$ ${total}`;
   incomeDisplay.textContent = `R$ ${income}`;
