@@ -12,7 +12,7 @@ Caso você queira entender um ouco mais sobre API, [clique aqui](https://www.tec
 
 ## O que aprendi na construção deste site?
 
-Usei op tutorial do dev Florin Pop como referência. Para conferir todos que ele fez, segue o tutorial:
+Usei o vídeo tutorial do dev Florin Pop como referência. Para conferir todos que ele fez, segue o tutorial:
 [![10 sites em 10 horas](https://img.youtube.com/vi/dtKciwk_si4/maxresdefault.jpg)](https://www.youtube.com/watch?v=dtKciwk_si4)
 
 ---
