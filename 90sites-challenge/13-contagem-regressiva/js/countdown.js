@@ -32,10 +32,13 @@ export default class Countdown {
   }
 
   get totalTime() {
-    const days = this.days;
-    const hours = this.hours % 24;
-    const minutes = this.minutes % 60;
-    const seconds = this.seconds % 60;
+    const days = this.days < 10 ? "0" + this.days : this.days;
+    const hours =
+      this.hours % 24 < 10 ? "0" + (this.hours % 24) : this.hours % 24;
+    const minutes =
+      this.minutes % 60 < 10 ? "0" + (this.minutes % 60) : this.minutes % 60;
+    const seconds =
+      this.seconds % 60 < 10 ? "0" + (this.seconds % 60) : this.seconds % 60;
 
     return [days, hours, minutes, seconds];
   }
