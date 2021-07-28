@@ -4,7 +4,7 @@
 
 ## Como este site foi construído?
 
-Como de costume, após ter a ideia de fazer uma contagem regressiva, fui ao requisitado YouTube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção. Logo, decidi criar uma contagem regressiva para as olimpíadas de toquio de 2021.
+Como de costume, após ter a ideia de fazer uma contagem regressiva, fui ao requisitado YouTube encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção. Logo, resolvi criar uma contagem regressiva para os jogos olímpicos de verão de 2020
 
 ### Você pode assisti-lo clicando na imagem abaixo:
 
