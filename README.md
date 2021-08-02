@@ -8,6 +8,7 @@ Durante o desafio irei atualizar meu progresso, adicionando um novo commit por a
 
 ## Sites lançandos até agora:
 
+- Site #18 - [Cronômetro](https://romulohe4rt.github.io/90sites90days/90sites-challenge/18-cronometro)
 - Site #17 - [Bateria Virtual](https://romulohe4rt.github.io/90sites90days/90sites-challenge/17-bateria-virtual)
 - Site #16 - [Buscador GIFs](https://romulohe4rt.github.io/90sites90days/90sites-challenge/16-buscador-gifs)
 - Site #15 - [Desenho](https://romulohe4rt.github.io/90sites90days/90sites-challenge/15-desenho)
