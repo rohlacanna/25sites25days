@@ -3,10 +3,13 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
+
+  scroll-behavior: smooth;
 }
 
 body {
   min-height: 100vh;
+  overflow-x: hidden;
   background: linear-gradient(#2b1055, #7597de);
 }
 
@@ -66,6 +69,8 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  overflow: hidden;
 }
 
 section::before {
@@ -99,6 +104,7 @@ section img#mountains_front {
 
 #text {
   position: absolute;
+  right: -350px;
   color: #fff;
   white-space: nowrap;
   font-size: 7.5vw;
