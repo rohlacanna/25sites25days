@@ -1,8 +1,10 @@
-# Desafio: Desenvolvendo um site por dia durante 90 dias
+###### O desafio inicial era criar um site por dia durante 90 dias, porém estou precisando urgentemente estudar outras ferramentas mais importante no momento e achei melhor parar esse desafio nos 30 dias.
+
+# Desafio: Desenvolvendo um site por dia durante 30 dias
 
 Olá! Me chamo [Rômulo](https://www.linkedin.com/in/romulolss/) e sou estudante de Ciêncida da Computação pela **UVA**.
 
-Inspirado em um perfil no **LinkedIn** resolvi iniciar este _desafio_ que consiste em criar um site por dia durante 90 dias, com o intuito de melhorar meu aprendizado em desenvolvimento web.
+Inspirado em um perfil no **LinkedIn** resolvi iniciar este _desafio_ que consiste em criar um site por dia durante 30 dias, com o intuito de melhorar meu aprendizado em desenvolvimento web.
 
 Durante o desafio irei atualizar meu progresso, adicionando um novo commit por aqui a cada site lançado, contando o que eu fiz e aprendi.
 
