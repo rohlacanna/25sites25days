@@ -1,6 +1,6 @@
-###### O desafio inicial era criar um site por dia durante 90 dias, porém estou precisando urgentemente estudar outras ferramentas mais importante no momento e achei melhor parar esse desafio nos 30 dias.
+###### O desafio inicial era criar um site por dia durante 90 dias, porém estou precisando urgentemente estudar outras ferramentas mais importante no momento e achei melhor parar esse desafio nos 25 dias.
 
-# Desafio: Desenvolvendo um site por dia durante 30 dias
+# Desafio: Desenvolvendo um site por dia durante 25 dias
 
 Olá! Me chamo [Rômulo](https://www.linkedin.com/in/romulolss/) e sou estudante de Ciêncida da Computação pela **UVA**.
 
